@@ -11,7 +11,7 @@ public class WalletTest {
     private Wallet wallet;
 
     @BeforeEach
-    public void setUp() {
+    public void setUp()  {
         wallet = new Wallet("John Doe");
     }
 

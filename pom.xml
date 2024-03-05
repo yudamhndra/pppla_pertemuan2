@@ -19,7 +19,6 @@
             <artifactId>junit-jupiter</artifactId>
             <version>5.10.0</version>
         </dependency>
-
     </dependencies>
 
 </project>
